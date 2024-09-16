@@ -81,7 +81,7 @@ while(True):
 
     # CHANGE ROTOR POSITIONS
 
-    if input("Do you want to change the rotor positions? Yes or no (y/n): ") == "y":
+    if input("Do you want to change the rotor positions? Yes or no (y/n): ").lower() == "y":
         save.input_configure_rotors("position")
         save.write_config()
         rotor_greek, rotor_left, rotor_middle, rotor_right, reflector, plugboard = save.read_config()

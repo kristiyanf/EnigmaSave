@@ -15,5 +15,3 @@ Download the Linux executable from the [releases](https://github.com/kristiyanf/
 ---
 
 You can configure the Enigma machine settings through the config.ini file, or directly through the program.
-
-![EnigmaSave](https://github.com/user-attachments/assets/47b74ac7-2284-494d-85b6-5b4605feda66)

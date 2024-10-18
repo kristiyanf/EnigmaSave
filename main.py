@@ -6,11 +6,8 @@ Rotor = rotor.Rotor
 config = configparser.ConfigParser()
 alphabet= rotor.alphabet
 
-print(" _                      __           ")
-print("|_ ._  o  _  ._ _   _. (_   _.     _ ")
-print(r"|_ | | | (_| | | | (_| __) (_| \/ (/_ (by Kris)")
-print("          _|                         ")
-print()
+print("EnigmaSave")
+print("----------")
 
 save.input_settings()
 
